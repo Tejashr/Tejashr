@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tejashr](https://github.com/Tejashr)
 
-- 💬 Ask me about **ReactJS , Javascript , Data structure , Algorithm , Node Js , Express , and Mysql.**
+- 💬 Ask me about **ReactJS , Javascript , Node Js , Express , and Mysql.**
 
 - 📫 How to reach me **tejasteju11@gmail.com**
 
