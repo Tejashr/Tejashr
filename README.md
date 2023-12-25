@@ -5,13 +5,11 @@
 - 👨‍💻 I'm passionate about crafting innovative solutions and building scalable applications. My tech stack includes:
 
 - 💡 Frontend: HTML, CSS, JavaScript, React
-- 🔧 Backend: Node.js, Express, Django
-- 🛢️ Databases: MongoDB, PostgreSQL
-- 🚀 Deployment: Docker, Heroku, AWS
+- 🔧 Backend: Node.js, Express
+- 🛢️ Databases: MongoDB, MySQL
+- 🚀 Deployment: Heroku, AWS
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tejashr](https://github.com/Tejashr)
-
-- 💬 Ask me about **ReactJS , Javascript , Node Js , Express , and Mysql.**
 
 - 📫 How to reach me **tejasteju11@gmail.com**
 
