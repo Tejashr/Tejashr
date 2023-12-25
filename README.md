@@ -1,6 +1,6 @@
-- Hi I'm Tejas HR
+- 👋 Hello World! I'm Tejas HR
 
-- 🌱 I’m a software developer who is spacialize in **Full Stack Web Development**.
+- 🚀 Full-stack Developer | 💻 Open Source Enthusiast | 🌐 Tech Explorer
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tejashr](https://github.com/Tejashr)
 
